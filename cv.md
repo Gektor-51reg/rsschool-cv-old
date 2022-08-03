@@ -27,11 +27,11 @@
 	1111
 
 ## Education
-	### University: 
+### University: 
 		Ivanovo State Power Engineering University, specialty: 
 			Thermal power plants, 
 			Economics and enterprise management.
-	### Courses: 
+### Courses: 
 		RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ## English
