@@ -2,15 +2,15 @@
 
 ## Contacts
 
-**Location:** Tver, Russia
+* **Location:** Tver, Russia
 
-**Phone:** +7 (999) 999-99-99
+* **Phone:** +7 (999) 999-99-99
 
-**Email:** gek_51reg@mail.ru
+* **Email:** gek_51reg@mail.ru
 
-**WhatsApp:** +7 (999) 999-99-99
+* **WhatsApp:** +7 (999) 999-99-99
 
-**Viber:** +7 (999) 999-99-99
+* **Viber:** +7 (999) 999-99-99
 
 ## About Me
 
@@ -18,37 +18,42 @@ I want to work in a promising growing company. I am sociable, active, well train
 
 ## Skills
 
-HTML
-CSS/SASS
-JavaScript *(Basic)*
-Git, GitHub
+* HTML
+* CSS/SASS
+* JavaScript *(Basic)*
+* Git, GitHub
 
 ## Code Example
 
+```
+
 1111
 1111
 1111
+```
 
 ## Experience
 
-1111
-1111
-1111
+* 1111
+* 1111
+* 1111
 
 ## Education
 
 ### University: 
 
-Ivanovo State Power Engineering University, specialty: 
+* Ivanovo State Power Engineering University, specialty: 
 
-Thermal power plants, 
-Economics and enterprise management.
+  * Thermal power plants, 
+  * Economics and enterprise management.
+
+* Other
 
 ### Courses: 
 
-RS Schools Course «JavaScript/Front-end. Stage 0» *(in progress)*
+* RS Schools Course «JavaScript/Front-end. Stage 0» *(in progress)*
 
-Other
+* Other
 
 ## English
 
