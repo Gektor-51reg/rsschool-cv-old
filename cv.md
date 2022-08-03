@@ -26,9 +26,29 @@ I want to work in a promising growing company. I am sociable, active, well train
 ## Code Example
 
 ```
-1111
-1111
-1111
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<style>
+		#image {
+			display: none;
+			color: red;
+		}
+	</style>
+</head>
+<!--
+	! random
+	TODO: jsdgjhsj
+	? dfhdbvjdv
+-->
+<body>
+	<h1>Hi, VSCode!!!</h1>
+</body>
+</html>
 ```
 
 ## Experience
