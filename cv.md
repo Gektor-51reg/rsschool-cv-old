@@ -6,11 +6,13 @@
 
 * **Phone:** +7 (999) 999-99-99
 
-* **Email:** gek_51reg@mail.ru
+* **Email:** gektor_51reg@mail.ru
 
 * **WhatsApp:** +7 (999) 999-99-99
 
 * **Viber:** +7 (999) 999-99-99
+
+* **GitHub:** [Gektor-51reg](https://github.com/Gektor-51reg)
 
 ## About Me
 
