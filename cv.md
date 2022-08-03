@@ -1,11 +1,11 @@
 # Roman Serbenenko
 
 ## Contacts
-	**Location:** Tver, Russia
-	**Phone:** +7 (999) 999-99-99
-	**Email:** gek_51reg@mail.ru
-	**WhatsApp:** +7 (999) 999-99-99
-	**Viber:** +7 (999) 999-99-99
+	__Location:__ Tver, Russia
+	__Phone:__ +7 (999) 999-99-99
+	__Email:__ gek_51reg@mail.ru
+	__WhatsApp:__ +7 (999) 999-99-99
+	__Viber:__ +7 (999) 999-99-99
 
 ## About Me
 	I want to work in a promising growing company. I am sociable, active, well trained. I strive to be interested in novelties in modern technologies, apply advanced approaches to work, constantly learn something new and interesting to improve work efficiency. I have significant experience in managing a utility sector enterprise (heat supply) as a deputy director for development and production.
