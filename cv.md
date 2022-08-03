@@ -26,7 +26,6 @@ I want to work in a promising growing company. I am sociable, active, well train
 ## Code Example
 
 ```
-
 1111
 1111
 1111
@@ -34,9 +33,9 @@ I want to work in a promising growing company. I am sociable, active, well train
 
 ## Experience
 
-* 1111
-* 1111
-* 1111
+* First
+* Second
+* Third
 
 ## Education
 
